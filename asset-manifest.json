@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.82ea4194.css",
-    "main.js": "/react-gh-pages/static/js/main.e8cb481d.js",
-    "static/media/Abstraction.png": "/react-gh-pages/static/media/Abstraction.5737e9f06dde03084a21.png",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.82ea4194.css.map": "/react-gh-pages/static/css/main.82ea4194.css.map",
-    "main.e8cb481d.js.map": "/react-gh-pages/static/js/main.e8cb481d.js.map"
+    "main.css": "/F4-C1/static/css/main.82ea4194.css",
+    "main.js": "/F4-C1/static/js/main.d30efa69.js",
+    "static/media/Abstraction.png": "/F4-C1/static/media/Abstraction.5737e9f06dde03084a21.png",
+    "static/media/logo.svg": "/F4-C1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/F4-C1/index.html",
+    "main.82ea4194.css.map": "/F4-C1/static/css/main.82ea4194.css.map",
+    "main.d30efa69.js.map": "/F4-C1/static/js/main.d30efa69.js.map"
   },
   "entrypoints": [
     "static/css/main.82ea4194.css",
-    "static/js/main.e8cb481d.js"
+    "static/js/main.d30efa69.js"
   ]
 }
